@@ -124,7 +124,7 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ## EMPLOYEE TABLE:
-![image](https://github.com/SdMdZahi7/WDM_EXP1/assets/94187572/595f5c47-9942-44f6-83cb-ebacd0149ac7)
+![image](https://github.com/SdMdZahi7/WDM_EXP1/assets/94187572/a39c4b22-0ee2-487d-baa8-569ea8d45945)
 ## WEATHER TABLE:
 ![image](https://github.com/SdMdZahi7/WDM_EXP1/assets/94187572/c5854fa6-7309-4f4d-bdf5-dfde683c86c7)
 
